@@ -1,5 +1,7 @@
 # Taipei Hackerspace Issue Tracker
 
+[![Join the chat at https://gitter.im/taipeihackerspace/hackerspace](https://badges.gitter.im/taipeihackerspace/hackerspace.svg)](https://gitter.im/taipeihackerspace/hackerspace?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/taipeihackerspace) - discussion about anything regarding the 'space!
 
 Keeping track of issues that we together need to take care of for the
